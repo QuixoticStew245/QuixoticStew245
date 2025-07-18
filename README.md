@@ -1,7 +1,7 @@
 <h1> Hola!👋 soy Derek</h1>
 <h3>Soy un desarrollador web jr enfocado en el frontend.</h3>
 
-- 🌱Actualmente estoy aprendiendo **React, AndriodStudio y React Native**
+- 🌱Actualmente estoy aprendiendo: **React, AndriodStudio y React Native**
 
 - 💻Hobbies **Estudiando: Unity 3d y Unreal Engine**
 
