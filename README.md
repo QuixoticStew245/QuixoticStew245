@@ -41,7 +41,19 @@
 ### 🌐 Contacto
 
 <p align="left">
-  <a href="https://linkedin.com/in/derek-ortiz-8b7862375" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://instagram.com/derek.ortiz.28" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/></a>
-  <a href="https://discord.gg/quixoticstew" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="30" height="30"/></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/derek-ortiz-8b7862375" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/derek.ortiz.28" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
+  </a>
+  <!-- Gmail (correo con mailto) -->
+  <a href="mailto:ortizderek708@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30"/>
+  </a>
+  <br />
+  <!-- Discord (servidor, no usuario personal) -->
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="30" height="30"/>quixoticstew
 </p>
